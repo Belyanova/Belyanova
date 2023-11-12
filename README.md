@@ -5,9 +5,49 @@
 <a href="https://www.instagram.com/ir.bels/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/irina-belyanova-68460126b/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/ibelyanova/">
 <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
+
+## Навыки и технологии
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://www.svgrepo.com/show/452234/java.svg" alt="icon" width="65" height="65" />
+      <br>JAVA
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="icon" width="65" height="65" />
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="icon" width="65" height="65" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.svgrepo.com/show/373699/jenkins.svg" alt="icon" width="65" height="65" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.svgrepo.com/show/448221/docker.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.svgrepo.com/show/452210/git.svg" alt="icon" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="icon" width="65" height="65" />
+      <br>SQL
+    </td>
+     <td align="center" width="96">
+        <img src="https://www.svgrepo.com/show/452161/atlassian.svg" alt="icon" width="65" height="65" />
+      <br>Jira
+    </td>
+  </tr>
+</table>
