@@ -3,15 +3,15 @@
 ### QA специалист с 4-х летним опытом в тестировании WEB, API-приложений в сфере облачных коммуникаций. Отвечала за тестирование чата, контакт-центра, интеграций с различными мессенджерами, чат-ботом. Ищу позицию QA Automation Java, чтобы продолжать развивать свой профессиональный потенциал.
 
 <a href="https://www.instagram.com/ir.bels/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="icon" width="40" height="40">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/irina-belyanova-68460126b/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+<img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="icon" width="40" height="40">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/ibelyanova/">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="icon" width="40" height="40">
 </a>
 
 ## Навыки и технологии
