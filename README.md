@@ -51,3 +51,5 @@
     </td>
   </tr>
 </table>
+## LeetCode
+![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ir_bels)
