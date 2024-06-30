@@ -1,7 +1,7 @@
 # Hello! My name is Irina
 
 ### QA engineer Java automation language
-<a href="https://www.instagram.com/ir.bels/">
+<a href="https://www.instagram.com/iri.belianova/">
 <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="icon" width="40" height="40"></a>
 
 <a href="https://www.linkedin.com/in/irina-belyanova-68460126b/">
