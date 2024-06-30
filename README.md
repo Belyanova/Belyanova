@@ -1,7 +1,6 @@
-# Hello! My name is Irina <img src = "https://www.svgrepo.com/show/25171/girl.svg" alt="icon" width="50" height="50">
+# Hello! My name is Irina
 
-### QA specialist with 4 years of experience in testing WEB and API applications in the field of cloud communications. Responsible for testing chat, contact center, integrations with various instant messengers, and chatbot. I am looking for a QA Automation Java position to continue to develop my professional potential.
-
+### QA engineer Java automation language
 <a href="https://www.instagram.com/ir.bels/">
 <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="icon" width="40" height="40"></a>
 
@@ -45,6 +44,10 @@
      <td align="center" width="96">
         <img src="https://www.svgrepo.com/show/452161/atlassian.svg" alt="icon" width="65" height="65" />
       <br>Jira
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.svgrepo.com/show/354420/swagger.svg" alt="icon" width="65" height="65" />
+      <br>Swagger
     </td>
   </tr>
 </table>
